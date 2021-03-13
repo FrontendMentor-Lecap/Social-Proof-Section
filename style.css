@@ -96,7 +96,7 @@ video {
 }
 
 html {
-  font-family: "Spartan", sans-serif;
+  font-family: 'Spartan', sans-serif;
   color: var(--vdrk-magenta);
 }
 
@@ -104,8 +104,8 @@ body {
   place-items: center;
   margin: 6%;
   position: relative;
-  background-image: url("/images/bg-pattern-top-mobile.svg"),
-    url("/images/bg-pattern-bottom-mobile.svg");
+  background-image: url('/images/bg-pattern-top-mobile.svg'),
+    url('/images/bg-pattern-bottom-mobile.svg');
   background-repeat: no-repeat;
   background-position: 0 0%, 100% 20vh;
   background-size: 100%, 100%;
@@ -148,7 +148,6 @@ main p {
   font-size: 0.7em;
   padding: 1em;
 }
-
 
 .user__card {
   background-color: var(--vdrk-magenta);
@@ -206,9 +205,9 @@ main p {
     display: grid;
     grid-template-columns: 50% 50%;
     background-size: 50%, 100%;
-    margin: 5% 10%
+    margin: 5% 10%;
   }
-  
+
   main {
     width: 100%;
     text-align: left;
@@ -222,7 +221,6 @@ main p {
   main p {
     max-width: 80%;
   }
-
 
   .reviews {
     width: 100%;
@@ -259,11 +257,11 @@ main p {
     margin: 0;
   }
 
-  .user__card:nth-of-type(1){
-    align-self:flex-start;
+  .user__card:nth-of-type(1) {
+    align-self: flex-start;
   }
 
-  .user__card:nth-of-type(3){
+  .user__card:nth-of-type(3) {
     align-self: flex-end;
   }
 }

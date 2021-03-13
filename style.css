@@ -204,7 +204,10 @@ main p {
   body {
     display: grid;
     grid-template-columns: 50% 50%;
-    background-size: 50%, 100%;
+    background-image: url('./images/bg-pattern-top-desktop.svg'),
+      url('./images/bg-pattern-bottom-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 20vh right 45vw, top 20vh left 0vw;
     margin: 5% 10%;
   }
 

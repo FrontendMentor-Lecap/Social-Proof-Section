@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://frontendmentor-lecap.github.io/Social-Proof-Section]
+- Solution URL: [https://github.com/FrontendMentor-Lecap/Social-Proof-Section]
 - Live Site URL: [https://frontendmentor-lecap.github.io/Social-Proof-Section/]
 
 ## My process
